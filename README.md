@@ -74,8 +74,8 @@
 1. **Клонировать репозиторий**
 
    ```bash
-   git clone https://github.com/your-username/fraud-detection-lightgbm.git
-   cd fraud-detection-lightgbm
+   git clone https://github.com/kirill842/itmo_mag_free_data_analysis
+   cd itmo_mag_free_data_analysis
    ```
 2. **Установить Python**
 
