@@ -85,10 +85,8 @@
 3. **Подготовить данные**
 
    * Поместить `transaction_fraud_data.parquet` и `historical_currency_exchange.parquet` в папку `data/`.
-4. **Запустить конвейер**
+4. **Начало работы**
 
-   ```bash
-   python main.py
-   ```
+   * Открыть проект в Jupyter Notebook
 
 ---
