@@ -84,7 +84,7 @@
    ```
 3. **Подготовить данные**
 
-   * Поместить `transaction_fraud_data.parquet` и `historical_currency_exchange.parquet` в папку `data/`.
+   * Поместить `transaction_fraud_data.parquet` и `historical_currency_exchange.parquet` в папку с проектом.
 4. **Начало работы**
 
    * Открыть проект в Jupyter Notebook
