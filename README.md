@@ -77,15 +77,18 @@
    git clone https://github.com/your-username/fraud-detection-lightgbm.git
    cd fraud-detection-lightgbm
    ```
-2. **Установить зависимости**
+2. **Установить Python**
+
+   * Python 3.11.13 [Download](https://www.python.org/downloads/release/python-31113/)
+3. **Установить зависимости**
 
    ```bash
    pip install -r requirements.txt
    ```
-3. **Подготовить данные**
+4. **Подготовить данные**
 
    * Поместить `transaction_fraud_data.parquet` и `historical_currency_exchange.parquet` в папку с проектом.
-4. **Начало работы**
+5. **Начало работы**
 
    * Открыть проект в Jupyter Notebook
 
